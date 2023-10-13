@@ -26,7 +26,3 @@ This repository contains embedded system code designed for the TM4C123GH6PM micr
 
 ## Contributions:
 Feel free to fork this repository and contribute. Pull requests are welcome!
-
----
-
-This is just a basic README explanation. Depending on your repository, you might want to add more sections like "Troubleshooting", "Known Issues", "Version History", etc. Remember, a good README helps users and contributors understand the purpose of your code and how to use or contribute to it effectively.
