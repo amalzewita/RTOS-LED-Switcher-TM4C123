@@ -2,6 +2,16 @@
 
 This repository contains embedded system code designed for the TM4C123GH6PM microcontroller. The primary function is to adjust the LED's color state based on user button inputs. It offers a basic scheduling mechanism to manage tasks related to reading the button states and updating the LED display.
 
+## Table of Contents
+1. [Introduction](#tm4c123gh6pm-led-state-manager)
+2. [Features](#features)
+3. [How It Works](#how-it-works)
+    - [Initialization](#initialization)
+    - [Button Reading](#button-reading)
+    - [LED Updating](#led-updating)
+4. [Setup](#setup)
+5. [Contributions](#contributions)
+
 ## Features:
 - Dynamically change between four LED states: White, Red, Green, and Blue.
 - The LED color shifts based on the button(s) pressed.
